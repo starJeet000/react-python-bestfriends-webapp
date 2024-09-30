@@ -15,13 +15,13 @@ function App() {
       <Navbar setUsers={setUsers} />
 
       <Container maxW={"1200px"} my={4}>
-        <Text 
-        fontSize={{base: "3x1", md: "50" }}
-        fontWeight={"bold"}
-        letterSpacing={"2px"}
-        textTransform={"uppercase"}
-        textAlign={"center"}
-        mb={8}
+        <Text
+          fontSize={{base: "3x1", md: "50" }}
+          fontWeight={"bold"}
+          letterSpacing={"2px"}
+          textTransform={"uppercase"}
+          textAlign={"center"}
+          mb={8}
         >
           <Text as= "span" bgGradient={"linear(to-r, cyan.400, blue.500)"} bgClip={"text"}>
             My Besties
