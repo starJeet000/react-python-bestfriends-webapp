@@ -88,6 +88,3 @@ The application should now be accessible in your web browser at `http://localhos
   * Integrate drag-and-drop functionality for easier task reordering.
 
 <!-- end list -->
-
-```eof
-```
